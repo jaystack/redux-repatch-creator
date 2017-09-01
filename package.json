@@ -1,9 +1,9 @@
 {
-  "name": "redux-repatch",
+  "name": "redux-repatch-creator",
   "version": "0.0.1",
   "description": "Redux enhancer for dispatching reducers",
   "main": "lib/index",
-  "browser": "dist/redux-repatch.js",
+  "browser": "dist/redux-repatch-creator.js",
   "typings": "lib/index",
   "scripts": {
     "build": "npm run build:node && npm run build:umd",
@@ -20,11 +20,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaystack/redux-repatch.git"
+    "url": "https://github.com/jaystack/redux-repatch-creator.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaystack/redux-repatch/issues"
+    "url": "https://github.com/jaystack/redux-repatch-creator/issues"
   },
   "keywords": [
     "redux",
