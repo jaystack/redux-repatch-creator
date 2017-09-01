@@ -9,8 +9,8 @@ export default {
   sourcemap: true,
   output: {
     exports: 'named',
-    file: 'dist/redux-repatch.js',
-    name: 'ReduxRepatch',
+    file: 'dist/redux-repatch-creator.js',
+    name: 'ReduxRepatchCreator',
     format: 'umd'
   }
 }
